@@ -28,7 +28,7 @@ import l10n
 import myNotebook as nb
 from config import config, appname, appversion
 import compat
-from pypresence import Presence
+from discord_sdk.pypresence import Presence
 
 plugin_name = "DiscordPresence"
 
